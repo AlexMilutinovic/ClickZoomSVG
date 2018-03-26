@@ -1,0 +1,123 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+            android:layout_height="match_parent">
+    <RelativeLayout android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    tools:context="com.amilutinovic.inat.InfoFragment"
+                    android:paddingTop="60dp"
+                    android:paddingLeft="40dp"
+                    android:paddingStart="40dp"
+                    android:background="#ffffff"
+                    android:paddingBottom="40dp">
+
+        <com.amilutinovic.inat.FintemTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="inat"
+            android:id="@+id/inat_title"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:textSize="40dp"
+            android:textColor="#465644"/>
+
+        <com.amilutinovic.inat.FintemTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Maps and Cityscape Consultancy and Workshop"
+            android:id="@+id/inat_subtitle"
+            android:layout_below="@+id/inat_title"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#465644"/>
+
+        <com.amilutinovic.inat.FintemTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="WEBSITE"
+            android:id="@+id/website_title"
+            android:layout_below="@+id/inat_subtitle"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="30dp"
+            android:textSize="20dp"
+            android:textColor="#465644"/>
+
+        <com.amilutinovic.inat.FintemTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="www.inat.fr"
+            android:id="@+id/website_subtitle"
+            android:layout_below="@+id/website_title"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#465644"/>
+
+        <com.amilutinovic.inat.FintemTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="EMAIL"
+            android:id="@+id/email_title"
+            android:textSize="20dp"
+            android:layout_below="@+id/website_subtitle"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="30dp"
+            android:textColor="#465644"/>
+
+        <com.amilutinovic.inat.FintemTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="contact@inat.fr"
+            android:id="@+id/email_subtitle"
+            android:layout_below="@+id/email_title"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#465644"/>
+
+        <com.amilutinovic.inat.FintemTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ART SHOP"
+            android:id="@+id/artshop_title"
+            android:textSize="20dp"
+            android:layout_below="@+id/email_subtitle"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="30dp"
+            android:textColor="#465644"/>
+
+        <com.amilutinovic.inat.FintemTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="RedBubble.com"
+            android:id="@+id/artshop_subtitle"
+            android:layout_below="@+id/artshop_title"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#465644"/>
+
+        <com.amilutinovic.inat.FintemTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="COPYRIGHT"
+            android:id="@+id/copyright_title"
+            android:textSize="20dp"
+            android:layout_below="@+id/artshop_subtitle"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="30dp"
+            android:textColor="#465644"/>
+
+        <com.amilutinovic.inat.FintemTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Jug Cerović"
+            android:id="@+id/copyright_subtitle"
+            android:layout_below="@+id/copyright_title"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#465644"/>
+    </RelativeLayout>
+
+</ScrollView>

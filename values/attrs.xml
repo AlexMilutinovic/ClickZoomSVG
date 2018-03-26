@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ImageMap">
+        <attr name="map" format="string"/>
+        <attr name="fitImageToScreen" format="boolean"/>
+        <attr name="scaleFromOriginal" format="boolean"/>
+        <attr name="maxSizeFactor" format="float"/>
+    </declare-styleable>
+
+    <declare-styleable name="FintemTextView">
+        <attr name="style" format="string"/>
+        <attr name="font" format="string" />
+    </declare-styleable>
+</resources>

@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="800px"
+	 height="800px" viewBox="0 0 800 800" enable-background="new 0 0 800 800" xml:space="preserve">
+<font horiz-adv-x="1000">
+<!-- 2005 Albert-Jan Pool published by FSI Fonts und Software GmbH -->
+<!-- Copyright: Copyright 2017 Adobe System Incorporated. All rights reserved. -->
+<font-face font-family="DINPro-Medium" units-per-em="1000" underline-position="-135" underline-thickness="51"/>
+<missing-glyph horiz-adv-x="568" d="M81,0l406,0l0,712l-406,0M151,70l0,572l266,0l0,-572z"/>
+<glyph unicode="a" horiz-adv-x="530" d="M454,0l0,339C454,454 384,513 245,513C161,513 111,496 63,440l67,-63C158,413 185,426 241,426C320,426 352,395 352,331l0,-36l-134,0C102,295 43,234 43,149C43,106 57,67 83,40C114,9 156,-6 219,-6C282,-6 317,9 354,46l0,-46M352,183C352,147 345,123 330,108C303,82 274,79 235,79C171,79 142,105 142,151C142,197 173,224 233,224l119,0z"/>
+<glyph unicode="f" horiz-adv-x="328" d="M300,420l0,78l-101,0l0,73C199,608 217,630 255,630l45,0l0,87l-64,0C141,717 97,649 97,576l0,-78l-58,0l0,-78l58,0l0,-420l102,0l0,420z"/>
+<glyph unicode="i" horiz-adv-x="264" d="M183,0l0,507l-102,0l0,-507M186,607l0,108l-108,0l0,-108z"/>
+<glyph unicode="n" horiz-adv-x="568" d="M492,0l0,324C492,381 480,429 441,467C411,496 368,513 316,513C265,513 216,494 181,456l0,51l-100,0l0,-507l102,0l0,309C183,387 231,422 288,422C345,422 390,388 390,309l0,-309z"/>
+<glyph unicode="." horiz-adv-x="278" d="M200,0l0,122l-122,0l0,-122z"/>
+<glyph unicode="r" horiz-adv-x="439" d="M437,465C402,500 365,513 316,513C259,513 207,488 181,452l0,55l-100,0l0,-507l102,0l0,308C183,378 229,422 284,422C319,422 337,411 360,388z"/>
+<glyph unicode="t" horiz-adv-x="342" d="M293,0l0,87l-42,0C213,87 195,109 195,146l0,274l98,0l0,78l-98,0l0,154l-102,0l0,-154l-58,0l0,-78l58,0l0,-279C93,68 137,0 232,0z"/>
+</font>
+
+	<font horiz-adv-x="1000">
+<!-- 2005 Albert-Jan Pool published by FSI Fonts und Software GmbH -->
+<!-- Copyright: Copyright 2017 Adobe System Incorporated. All rights reserved. -->
+<font-face font-family="DINPro-Bold" units-per-em="1000" underline-position="-135" underline-thickness="51"/>
+<missing-glyph horiz-adv-x="573" d="M73,0l427,0l0,712l-427,0M160,87l0,538l253,0l0,-538z"/>
+<glyph unicode="A" horiz-adv-x="638" d="M633,0l-260,712l-109,0l-259,-712l145,0l43,126l253,0l42,-126M409,243l-177,0l90,259z"/>
+<glyph unicode="B" horiz-adv-x="658" d="M599,205C599,300 544,345 501,365C537,382 589,433 589,512C589,634 508,712 369,712l-286,0l0,-712l298,0C508,0 599,72 599,205M460,212C460,164 430,124 367,124l-145,0l0,175l145,0C430,299 460,260 460,212M450,506C450,457 417,424 358,424l-136,0l0,164l136,0C417,588 450,555 450,506z"/>
+<glyph unicode="C" horiz-adv-x="620" d="M583,219l-141,0C427,158 389,118 322,118C284,118 254,130 233,155C204,186 198,218 198,356C198,494 204,526 233,557C254,582 284,594 322,594C389,594 427,554 442,493l141,0C559,638 458,718 321,718C245,718 181,692 129,640C98,609 79,574 71,533C63,493 59,434 59,356C59,278 63,219 71,179C79,139 98,103 129,72C181,20 245,-6 321,-6C457,-6 559,74 583,219z"/>
+<glyph unicode="D" horiz-adv-x="659" d="M600,359C600,466 608,564 528,644C481,691 414,712 340,712l-257,0l0,-712l257,0C414,0 481,21 528,68C608,148 600,252 600,359M461,359C461,251 457,200 431,168C407,139 375,124 327,124l-105,0l0,464l105,0C375,588 407,573 431,544C457,512 461,467 461,359z"/>
+<glyph unicode="F" horiz-adv-x="590" d="M552,588l0,124l-469,0l0,-712l139,0l0,289l281,0l0,124l-281,0l0,175z"/>
+<glyph unicode="G" horiz-adv-x="637" d="M590,292l0,104l-269,0l0,-116l131,0l0,-27C452,214 441,182 420,158C395,131 362,118 321,118C283,118 253,130 232,155C204,188 198,216 198,356C198,497 206,523 232,556C254,581 284,594 321,594C390,594 432,559 449,490l140,0C570,614 483,718 321,718C245,718 181,692 129,640C98,609 79,574 71,533C63,493 59,434 59,356C59,278 63,219 71,179C79,139 98,103 129,72C181,20 245,-6 321,-6C401,-6 467,19 522,75C571,127 590,188 590,292z"/>
+<glyph unicode="H" horiz-adv-x="685" d="M602,0l0,712l-139,0l0,-291l-241,0l0,291l-139,0l0,-712l139,0l0,298l241,0l0,-298z"/>
+<glyph unicode="I" horiz-adv-x="305" d="M222,0l0,712l-139,0l0,-712z"/>
+<glyph unicode="K" horiz-adv-x="665" d="M659,0l-253,429l236,283l-169,0l-251,-310l0,310l-139,0l0,-712l139,0l0,214l92,110l183,-324z"/>
+<glyph unicode="L" horiz-adv-x="575" d="M545,0l0,124l-323,0l0,588l-139,0l0,-712z"/>
+<glyph unicode="M" horiz-adv-x="811" d="M728,0l0,712l-137,0l-185,-385l-186,385l-137,0l0,-712l139,0l0,415l137,-270l94,0l136,270l0,-415z"/>
+<glyph unicode="N" horiz-adv-x="711" d="M628,0l0,712l-139,0l0,-436l-282,436l-124,0l0,-712l139,0l0,437l282,-437z"/>
+<glyph unicode="O" horiz-adv-x="644" d="M585,356C585,479 586,568 514,640C464,690 403,718 322,718C241,718 179,690 129,640C57,568 59,479 59,356C59,233 57,144 129,72C179,22 241,-6 322,-6C403,-6 464,22 514,72C586,144 585,233 585,356M446,356C446,219 438,186 411,156C391,133 360,118 322,118C284,118 252,133 232,156C205,186 198,219 198,356C198,493 205,526 232,556C252,579 284,594 322,594C360,594 391,579 411,556C438,526 446,493 446,356z"/>
+<glyph unicode="P" horiz-adv-x="628" d="M594,490C594,611 506,712 359,712l-276,0l0,-712l139,0l0,268l137,0C506,268 594,369 594,490M455,490C455,432 415,393 352,393l-130,0l0,195l130,0C415,588 455,548 455,490z"/>
+<glyph unicode="S" horiz-adv-x="591" d="M543,210C543,273 526,325 488,361C458,389 417,407 352,416l-84,12C239,432 216,443 202,456C187,470 181,489 181,507C181,556 217,597 291,597C338,597 392,591 437,548l88,87C464,694 393,718 295,718C141,718 47,629 47,502C47,442 64,396 98,362C130,331 175,312 236,303l86,-12C355,286 371,279 385,266C400,252 407,231 407,206C407,149 363,118 281,118C215,118 154,133 109,178l-90,-90C89,17 171,-6 279,-6C428,-6 543,72 543,210z"/>
+<glyph unicode="T" horiz-adv-x="571" d="M541,588l0,124l-511,0l0,-124l186,0l0,-588l139,0l0,588z"/>
+<glyph unicode="V" horiz-adv-x="581" d="M578,712l-145,0l-143,-464l-143,464l-144,0l235,-712l104,0z"/>
+<glyph unicode="W" horiz-adv-x="887" d="M881,712l-145,0l-111,-449l-130,449l-104,0l-130,-449l-110,449l-145,0l190,-712l116,0l131,432l131,-432l116,0z"/>
+<glyph unicode="X" horiz-adv-x="603" d="M598,0l-222,365l207,347l-157,0l-125,-230l-124,230l-158,0l207,-347l-221,-365l159,0l137,248l138,-248z"/>
+<glyph unicode="Y" horiz-adv-x="572" d="M569,712l-151,0l-131,-287l-133,287l-151,0l214,-420l0,-292l138,0l0,292z"/>
+<glyph unicode="a" horiz-adv-x="534" d="M467,0l0,343C467,465 391,527 245,527C158,527 108,511 57,455l83,-81C167,405 190,417 240,417C309,417 337,392 337,335l0,-26l-123,0C93,309 36,241 36,158C36,112 51,70 79,41C110,10 153,-5 212,-5C272,-5 305,10 340,45l0,-45M337,192C337,160 332,139 318,126C295,104 272,101 236,101C185,101 161,125 161,161C161,198 187,220 234,220l103,0z"/>
+<glyph unicode="&#xE3;" horiz-adv-x="534" d="M467,0l0,343C467,465 391,527 245,527C158,527 108,511 57,455l83,-81C167,405 190,417 240,417C309,417 337,392 337,335l0,-26l-123,0C93,309 36,241 36,158C36,112 51,70 79,41C110,10 153,-5 212,-5C272,-5 305,10 340,45l0,-45M337,192C337,160 332,139 318,126C295,104 272,101 236,101C185,101 161,125 161,161C161,198 187,220 234,220l103,0M436,671l-58,57C352,702 337,699 320,699C300,699 284,706 265,718C236,735 217,740 187,740C149,740 119,726 75,682l57,-57C158,651 173,653 190,653C210,653 227,646 246,635C274,619 294,613 323,613C362,613 392,627 436,671z"/>
+<glyph unicode="b" horiz-adv-x="560" d="M509,261C509,339 508,428 456,480C427,509 380,527 329,527C276,527 237,513 203,475l0,237l-130,0l0,-712l126,0l0,49C235,9 274,-6 329,-6C380,-6 427,12 456,41C508,93 509,183 509,261M379,261C379,176 369,111 291,111C213,111 203,176 203,261C203,346 213,410 291,410C369,410 379,346 379,261z"/>
+<glyph unicode="c" horiz-adv-x="480" d="M452,65l-88,87C337,123 314,111 280,111C249,111 225,122 206,145C186,170 177,206 177,261C177,316 186,351 206,376C225,399 249,410 280,410C314,410 337,398 364,369l88,88C406,505 352,527 280,527C176,527 47,472 47,261C47,50 176,-6 280,-6C352,-6 406,17 452,65z"/>
+<glyph unicode="d" horiz-adv-x="561" d="M488,0l0,712l-130,0l0,-237C324,513 284,527 231,527C180,527 133,509 104,480C52,428 51,339 51,261C51,183 52,93 104,41C133,12 181,-6 232,-6C287,-6 325,9 361,49l0,-49M358,261C358,176 347,111 269,111C191,111 181,176 181,261C181,346 191,410 269,410C347,410 358,346 358,261z"/>
+<glyph unicode="e" horiz-adv-x="548" d="M501,220l0,58C501,421 419,527 274,527C139,527 47,431 47,261C47,50 165,-6 288,-6C382,-6 433,23 486,76l-79,77C374,120 346,104 289,104C216,104 175,153 175,220M373,309l-198,0C176,332 179,346 187,365C201,396 230,419 274,419C318,419 347,396 361,365C369,346 372,332 373,309z"/>
+<glyph unicode="g" horiz-adv-x="555" d="M482,19l0,502l-126,0l0,-49C320,512 284,527 229,527C178,527 133,510 104,481C55,432 51,366 51,275C51,184 55,117 104,68C133,39 177,22 228,22C279,22 318,36 352,74l0,-53C352,-32 325,-87 247,-87C203,-87 174,-75 145,-47l-81,-82C118,-181 173,-197 253,-197C393,-197 482,-106 482,19M352,275C352,206 343,139 266,139C189,139 181,206 181,275C181,344 189,410 266,410C343,410 352,344 352,275z"/>
+<glyph unicode="h" horiz-adv-x="569" d="M502,0l0,337C502,447 442,527 328,527C282,527 238,509 203,473l0,239l-130,0l0,-712l130,0l0,318C203,386 246,410 287,410C328,410 372,387 372,318l0,-318z"/>
+<glyph unicode="i" horiz-adv-x="275" d="M203,0l0,521l-130,0l0,-521M204,610l0,106l-133,0l0,-106z"/>
+<glyph unicode="j" horiz-adv-x="275" d="M203,-46l0,567l-130,0l0,-559C73,-69 60,-85 27,-85l-50,0l0,-110l74,0C158,-195 203,-120 203,-46M204,610l0,106l-133,0l0,-106z"/>
+<glyph unicode="k" horiz-adv-x="559" d="M547,0l-200,311l186,210l-157,0l-173,-213l0,404l-130,0l0,-712l130,0l0,155l55,62l128,-217z"/>
+<glyph unicode="l" horiz-adv-x="325" d="M294,0l0,110l-50,0C211,110 198,126 198,157l0,555l-130,0l0,-563C68,75 113,0 220,0z"/>
+<glyph unicode="m" horiz-adv-x="876" d="M809,0l0,333C809,390 794,439 752,481C723,510 676,527 624,527C559,527 512,507 468,461C435,506 388,527 330,527C282,527 234,508 200,473l0,48l-127,0l0,-521l130,0l0,315C203,386 249,410 290,410C331,410 376,386 376,315l0,-315l130,0l0,318C506,386 553,410 593,410C634,410 679,386 679,315l0,-315z"/>
+<glyph unicode="n" horiz-adv-x="573" d="M506,0l0,333C506,390 495,439 453,481C424,510 382,527 330,527C282,527 234,509 200,473l0,48l-127,0l0,-521l130,0l0,315C203,386 249,410 290,410C331,410 376,386 376,315l0,-315z"/>
+<glyph unicode="o" horiz-adv-x="543" d="M492,261C492,355 480,414 433,463C401,497 348,527 271,527C194,527 142,497 110,463C63,414 51,355 51,261C51,166 63,107 110,58C142,24 194,-6 271,-6C348,-6 401,24 433,58C480,107 492,166 492,261M362,261C362,207 359,161 332,134C317,119 297,111 271,111C245,111 226,119 211,134C184,161 181,207 181,261C181,315 184,360 211,387C226,402 245,410 271,410C297,410 317,402 332,387C359,360 362,315 362,261z"/>
+<glyph unicode="p" horiz-adv-x="560" d="M509,261C509,339 508,428 456,480C427,509 380,527 329,527C274,527 235,512 199,472l0,49l-126,0l0,-712l130,0l0,237C237,8 276,-6 329,-6C380,-6 427,12 456,41C508,93 509,183 509,261M379,261C379,176 369,111 291,111C213,111 203,176 203,261C203,346 213,410 291,410C369,410 379,346 379,261z"/>
+<glyph unicode="q" horiz-adv-x="561" d="M488,-191l0,712l-127,0l0,-49C325,512 287,527 232,527C181,527 133,509 104,480C52,428 51,339 51,261C51,183 52,93 104,41C133,12 180,-6 231,-6C284,-6 324,8 358,46l0,-237M358,261C358,176 347,111 269,111C191,111 181,176 181,261C181,346 191,410 269,410C347,410 358,346 358,261z"/>
+<glyph unicode="&#x2019;" horiz-adv-x="273" d="M204,588l0,124l-136,0l0,-227z"/>
+<glyph unicode="r" horiz-adv-x="455" d="M454,478C418,514 382,527 331,527C275,527 225,501 200,471l0,50l-127,0l0,-521l130,0l0,314C203,380 247,410 287,410C319,410 336,399 356,379z"/>
+<glyph unicode="s" horiz-adv-x="501" d="M465,164C465,252 413,307 310,317l-82,8C182,329 174,351 174,370C174,396 196,420 248,420C293,420 339,412 369,385l80,81C399,513 331,527 250,527C144,527 49,469 49,361C49,265 107,224 201,215l82,-8C324,203 338,185 338,159C338,120 291,105 246,105C206,105 150,111 107,154l-85,-85C88,3 162,-6 244,-6C367,-6 465,49 465,164z"/>
+<glyph unicode=" " horiz-adv-x="232"/>
+<glyph unicode="t" horiz-adv-x="352" d="M307,0l0,110l-47,0C229,110 215,127 215,157l0,250l92,0l0,99l-92,0l0,154l-130,0l0,-154l-55,0l0,-99l55,0l0,-258C85,75 130,0 236,0z"/>
+<glyph unicode="u" horiz-adv-x="573" d="M500,0l0,521l-130,0l0,-315C370,135 324,111 283,111C242,111 197,135 197,206l0,315l-130,0l0,-333C67,131 78,82 120,40C149,11 191,-6 243,-6C291,-6 339,12 373,48l0,-48z"/>
+<glyph unicode="w" horiz-adv-x="759" d="M755,521l-137,0l-84,-322l-107,322l-95,0l-106,-322l-84,322l-138,0l160,-521l107,0l109,327l109,-327l107,0z"/>
+<glyph unicode="x" horiz-adv-x="527" d="M515,0l-180,266l173,255l-156,0l-89,-149l-88,149l-156,0l173,-255l-180,-266l156,0l95,156l96,-156z"/>
+<glyph unicode="y" horiz-adv-x="494" d="M490,521l-137,0l-104,-322l-108,322l-137,0l178,-484l-22,-64C147,-65 132,-74 95,-74l-30,0l0,-117l51,0C159,-191 198,-181 228,-151C244,-135 256,-113 267,-84z"/>
+<glyph unicode="z" horiz-adv-x="478" d="M434,0l0,117l-234,0l234,305l0,99l-384,0l0,-117l218,0l-231,-305l0,-99z"/>
+</font>
+
+	<g id="Sea">
+	<rect fill="#FFFFFF" width="800" height="800"/>
+</g>
+<g id="world_simple" opacity="0.1">
+	<g>
+		<g>
+			<path fill="#E4E2E1" d="M311.133,40c-0.624,0-1.134,0.51-1.134,1.134v57.732c0,0.624,0.51,1.134,1.134,1.134h57.732
+				c0.624,0,1.134-0.51,1.134-1.134V71.134c0-0.624,0.51-1.134,1.134-1.134h27.732c0.624,0,1.134,0.51,1.134,1.134v57.732
+				c0,0.624-0.51,1.134-1.134,1.134h-87.732c-0.624,0-1.134,0.51-1.134,1.134v57.732c0,0.624-0.51,1.134-1.134,1.134h-27.732
+				c-0.624,0-1.134,0.51-1.134,1.134v27.732c0,0.624-0.51,1.134-1.134,1.134h-27.732c-0.624,0-1.134,0.51-1.134,1.134v27.732
+				c0,0.624,0.51,1.134,1.134,1.134h27.732c0.624,0,1.134,0.51,1.134,1.134v57.732c0,0.624-0.51,1.134-1.134,1.134h-57.732
+				c-0.624,0-1.134,0.51-1.134,1.134v87.732c0,0.623,0.51,1.134,1.134,1.134h57.732c0.624,0,1.134-0.511,1.134-1.134v-57.732
+				c0-0.623,0.51-1.134,1.134-1.134h27.732c0.624,0,1.134,0.511,1.134,1.134v57.732c0,0.623,0.51,1.134,1.134,1.134h27.732
+				c0.624,0,1.134-0.511,1.134-1.134v-57.732c0-0.623,0.51-1.134,1.134-1.134h27.732c0.624,0,1.134,0.511,1.134,1.134v57.732
+				c0,0.623,0.51,1.134,1.134,1.134h27.732c0.624,0,1.134-0.511,1.134-1.134v-27.732c0-0.623,0.51-1.134,1.134-1.134h27.732
+				c0.624,0,1.134-0.511,1.134-1.134v-27.732c0-0.623,0.51-1.134,1.134-1.134h57.732c0.624,0,1.134,0.511,1.134,1.134v27.732
+				c0,0.623-0.51,1.134-1.134,1.134h-57.732c-0.624,0-1.134,0.511-1.134,1.134v27.732c0,0.623,0.51,1.134,1.134,1.134h27.732
+				c0.624,0,1.134,0.511,1.134,1.134v57.732c0,0.623-0.51,1.134-1.134,1.134H221.133c-0.624,0-1.134,0.511-1.134,1.134v177.732
+				c0,0.623,0.51,1.134,1.134,1.134h87.732c0.624,0,1.134,0.511,1.134,1.134v117.732c0,0.623,0.51,1.134,1.134,1.134h87.732
+				c0.624,0,1.134-0.511,1.134-1.134V491.134c0-0.623,0.51-1.134,1.134-1.134h27.732c0.624,0,1.134,0.511,1.134,1.134v57.732
+				c0,0.623,0.51,1.134,1.134,1.134h27.732c0.624,0,1.134-0.511,1.134-1.134v-57.732c0-0.623,0.51-1.134,1.134-1.134h27.732
+				c0.624,0,1.134,0.511,1.134,1.134v117.732c0,0.623,0.51,1.134,1.134,1.134h27.732c0.624,0,1.644,0,2.268,0h57.732
+				c0.624,0,1.134-0.511,1.134-1.134V491.134c0-0.623,0.51-1.134,1.134-1.134h27.732c0.624,0,1.134,0.511,1.134,1.134v57.732
+				c0,0.623,0.51,1.134,1.134,1.134h27.732c0.624,0,1.134-0.511,1.134-1.134V431.134c0-0.623,0.51-1.134,1.134-1.134h57.732
+				c0.624,0,1.134-0.511,1.134-1.134V221.134c0-0.624-0.51-1.134-1.134-1.134h-57.732c-0.624,0-1.134-0.51-1.134-1.134v-57.732
+				c0-0.624,0.51-1.134,1.134-1.134h27.732c0.624,0,1.134,0.51,1.134,1.134v27.732c0,0.624,0.51,1.134,1.134,1.134h27.732
+				c0.624,0,1.134-0.51,1.134-1.134v-87.732c0-0.624,0.51-1.134,1.134-1.134h57.732c0.624,0,1.134-0.51,1.134-1.134V41.134
+				c0-0.624-0.51-1.134-1.134-1.134H311.133z"/>
+		</g>
+		<g>
+			<path fill="#E4E2E1" d="M759.999,248.866c0,0.624-0.51,1.134-1.134,1.134h-27.732c-0.624,0-1.134-0.51-1.134-1.134v-87.732
+				c0-0.624,0.51-1.134,1.134-1.134h27.732c0.624,0,1.134,0.51,1.134,1.134V248.866z"/>
+		</g>
+		<g>
+			<path fill="#E4E2E1" d="M759.999,518.866c0,0.623-0.51,1.134-1.134,1.134h-27.732c-0.624,0-1.134-0.511-1.134-1.134v-87.732
+				c0-0.623,0.51-1.134,1.134-1.134h27.732c0.624,0,1.134,0.511,1.134,1.134V518.866z"/>
+		</g>
+		<g>
+			<path fill="#E4E2E1" d="M759.999,758.866c0,0.623-0.51,1.134-1.134,1.134h-87.732c-0.624,0-1.134-0.511-1.134-1.134v-87.732
+				c0-0.623,0.51-1.134,1.134-1.134h87.732c0.624,0,1.134,0.511,1.134,1.134V758.866z"/>
+		</g>
+		<g>
+			<path fill="#E4E2E1" d="M218.865,40c0.624,0,1.134,0.51,1.134,1.134v57.732c0,0.624-0.51,1.134-1.134,1.134h-57.732
+				c-0.624,0-1.134,0.51-1.134,1.134v27.732c0,0.624,0.51,1.134,1.134,1.134h27.732c0.624,0,1.134,0.51,1.134,1.134v147.732
+				c0,0.624-0.51,1.134-1.134,1.134h-27.732c-0.624,0-1.134,0.51-1.134,1.134v57.732c0,0.623-0.51,1.134-1.134,1.134h-27.732
+				c-0.624,0-1.134-0.511-1.134-1.134v-27.732c0-0.624-0.51-1.134-1.134-1.134h-27.732c-0.624,0-1.134,0.51-1.134,1.134v117.732
+				c0,0.623,0.51,1.134,1.134,1.134h57.732c0.624,0,1.134,0.511,1.134,1.134v147.732c0,0.623-0.51,1.134-1.134,1.134h-27.732
+				c-0.624,0-1.134,0.511-1.134,1.134v57.732c0,0.623-0.51,1.134-1.134,1.134h-27.732c-0.624,0-1.134,0.511-1.134,1.134v117.732
+				c0,0.623-0.51,1.134-1.134,1.134H71.133c-0.624,0-1.134-0.511-1.134-1.134V371.134c0-0.623-0.51-1.134-1.134-1.134H41.133
+				c-0.624,0-1.134-0.511-1.134-1.134V41.134c0-0.624,0.51-1.134,1.134-1.134H218.865z"/>
+		</g>
+		<g>
+			<path fill="#E4E2E1" d="M159.999,398.866c0,0.623-0.51,1.134-1.134,1.134h-27.732c-0.624,0-1.134-0.511-1.134-1.134v-27.732
+				c0-0.623,0.51-1.134,1.134-1.134h27.732c0.624,0,1.134,0.511,1.134,1.134V398.866z"/>
+		</g>
+		<g>
+			<path fill="#E4E2E1" d="M279.999,101.134c0-0.624-0.51-1.134-1.134-1.134h-27.732c-0.624,0-1.134,0.51-1.134,1.134v57.732
+				c0,0.624,0.51,1.134,1.134,1.134h27.732c0.624,0,1.134-0.51,1.134-1.134V101.134z"/>
+		</g>
+		<g>
+			<path fill="#E4E2E1" d="M759.999,371.134c0-0.623-0.51-1.134-1.134-1.134h-27.732c-0.624,0-1.134,0.511-1.134,1.134v27.732
+				c0,0.623,0.51,1.134,1.134,1.134h27.732c0.624,0,1.134-0.511,1.134-1.134V371.134z"/>
+		</g>
+		<g>
+			<path fill="#E4E2E1" d="M639.999,581.134c0-0.623-0.51-1.134-1.134-1.134h-27.732c-0.624,0-1.134,0.511-1.134,1.134v57.732
+				c0,0.623,0.51,1.134,1.134,1.134h27.732c0.624,0,1.134-0.511,1.134-1.134V581.134z"/>
+		</g>
+		<g>
+			<path fill="#E4E2E1" d="M729.999,551.134c0-0.623-0.51-1.134-1.134-1.134h-27.732c-0.624,0-1.134,0.511-1.134,1.134v27.732
+				c0,0.623,0.51,1.134,1.134,1.134h27.732c0.624,0,1.134-0.511,1.134-1.134V551.134z"/>
+		</g>
+		<g>
+			<path fill="#E4E2E1" d="M729.999,611.134c0-0.623-0.51-1.134-1.134-1.134h-57.732c-0.624,0-1.134,0.511-1.134,1.134v27.732
+				c0,0.623,0.51,1.134,1.134,1.134h57.732c0.624,0,1.134-0.511,1.134-1.134V611.134z"/>
+		</g>
+	</g>
+</g>
+<g id="Background">
+	<rect x="420" y="360" fill="#595B51" width="70.839" height="20"/>
+	<rect x="249.999" y="325" fill="#595B51" width="82.672" height="20"/>
+	<rect x="229.999" y="360" fill="#595B51" width="62.839" height="20"/>
+	<rect x="289.999" y="210" fill="#595B51" width="51.966" height="20"/>
+	<rect x="369.999" y="140" fill="#595B51" width="58.023" height="20"/>
+	<rect x="449.372" y="140" fill="#595B51" width="70.234" height="20"/>
+	<rect x="635.827" y="138.667" fill="#595B51" width="55.422" height="20"/>
+	<rect x="665.88" y="169.25" fill="#595B51" width="59.119" height="20"/>
+	<rect x="712.092" y="216.25" fill="#595B51" width="57.562" height="20"/>
+	<rect x="734.999" y="179.25" fill="#595B51" width="55.529" height="20"/>
+	<rect x="689.999" y="290" fill="#595B51" width="77.301" height="20"/>
+	<rect x="509.676" y="470" fill="#595B51" width="51.861" height="20"/>
+	<rect x="49.792" y="331.75" fill="#595B51" width="62.861" height="20"/>
+	<rect x="469.999" y="540" fill="#595B51" width="69.482" height="20"/>
+	<rect x="547.322" y="200" fill="#595B51" width="62.491" height="20"/>
+	<rect x="669.999" y="433" fill="#595B51" width="87.672" height="20"/>
+	<rect x="669.999" y="405" fill="#595B51" width="80.563" height="20"/>
+	<rect x="600.755" y="370" fill="#595B51" width="89.047" height="20"/>
+	<rect x="9.999" y="220" fill="#595B51" width="107.241" height="20"/>
+	<rect x="140.763" y="190" fill="#595B51" width="78.924" height="20"/>
+	<rect x="224.999" y="125" fill="#595B51" width="65.685" height="20"/>
+	<rect x="719.999" y="370" fill="#595B51" width="56.187" height="20"/>
+	<rect x="539.999" y="330" fill="#595B51" width="85.922" height="20"/>
+	<rect x="499.606" y="250" fill="#595B51" width="49.797" height="20"/>
+	<rect x="354.685" y="230" fill="#595B51" width="64.837" height="20"/>
+	<rect x="489.999" y="300" fill="#595B51" width="74.797" height="20"/>
+	<rect x="469.999" y="335" fill="#595B51" width="58.029" height="20"/>
+	<rect x="624.147" y="260" fill="#595B51" width="67.595" height="20"/>
+	<rect x="590.195" y="230" fill="#595B51" width="61.458" height="20"/>
+	<rect x="587.523" y="300" fill="#595B51" width="62.672" height="20"/>
+	<rect x="370" y="260" fill="#595B51" width="61.599" height="20"/>
+	<rect x="669.999" y="320" fill="#595B51" width="81.422" height="20"/>
+	<rect x="499.999" y="400" fill="#595B51" width="62.798" height="20"/>
+	<rect x="119.592" y="543" fill="#595B51" width="81.562" height="20"/>
+	<rect x="76.166" y="610" fill="#595B51" width="102.779" height="20"/>
+	<rect x="599.999" y="538" fill="#595B51" width="82.829" height="20"/>
+	<rect x="129.999" y="240" fill="#595B51" width="92.404" height="20"/>
+	<rect x="159.999" y="150" fill="#595B51" width="62.986" height="20"/>
+	<rect x="72.459" y="140" fill="#595B51" width="67.413" height="20"/>
+	<rect x="112.459" y="110" fill="#595B51" width="77.413" height="20"/>
+	<rect x="302.459" y="110" fill="#595B51" width="98.152" height="20"/>
+	<rect x="392.459" y="50" fill="#595B51" width="71.403" height="20"/>
+	<rect x="312.459" y="80" fill="#595B51" width="86.985" height="20"/>
+	<rect x="302.459" y="50" fill="#595B51" width="47.486" height="20"/>
+	<rect x="63.35" y="180" fill="#595B51" width="67.413" height="20"/>
+	<rect x="589.774" y="508" fill="#595B51" width="105.338" height="20"/>
+	<rect x="415" y="90" fill="#595B51" width="106.653" height="20"/>
+</g>
+<g id="City_Name">
+	<g>
+		<text transform="matrix(1 0 0 1 425 105)" fill="#FFFFFF" font-family="'DINPro-Bold'" font-size="14">St Petersburg</text>
+		<text transform="matrix(1 0 0 1 634.1475 275)" fill="#FFFFFF" font-family="'DINPro-Bold'" font-size="14">Nanjing</text>
+		<text transform="matrix(1 0 0 1 600.1953 245)" fill="#FFFFFF" font-family="'DINPro-Bold'" font-size="14">Tianjin</text>
+		<text transform="matrix(1 0 0 1 549.999 345)" fill="#FFFFFF" font-family="'DINPro-Bold'" font-size="14">Chongqing</text>
+		<text transform="matrix(1 0 0 1 509.6064 265)" fill="#FFFFFF" font-family="'DINPro-Bold'" font-size="14">Xi’an</text>
+		<text transform="matrix(1 0 0 1 597.5234 315)" fill="#FFFFFF" font-family="'DINPro-Bold'" font-size="14">Wuhan</text>
+		<text transform="matrix(1 0 0 1 679.999 334.7842)" fill="#FFFFFF" font-family="'DINPro-Bold'" font-size="14">Hangzhou</text>
+		<text transform="matrix(1 0 0 1 509.999 415)" fill="#FFFFFF" font-family="'DINPro-Bold'" font-size="14">Tehran</text>
+		<text transform="matrix(1 0 0 1 364.6851 245)" fill="#FFFFFF" font-family="'DINPro-Bold'" font-size="14">Munich</text>
+		<text transform="matrix(1 0 0 1 380 275)" fill="#FFFFFF" font-family="'DINPro-Bold'" font-size="14">Vienna</text>
+		<text transform="matrix(1 0 0 1 499.999 315)" fill="#FFFFFF" font-family="'DINPro-Bold'" font-size="14">Chengdu</text>
+		<text transform="matrix(1 0 0 1 479.999 350)" fill="#FFFFFF" font-family="'DINPro-Bold'" font-size="14">Tbilisi</text>
+		<text transform="matrix(1 0 0 1 86.166 625)" fill="#FFFFFF" font-family="'DINPro-Bold'" font-size="14">Buenos Aires</text>
+		<text transform="matrix(1 0 0 1 609.999 553)" fill="#FFFFFF" font-family="'DINPro-Bold'" font-size="14">Singapore</text>
+		<text transform="matrix(1 0 0 1 129.5918 558)" fill="#FFFFFF" font-family="'DINPro-Bold'" font-size="14">São Paulo</text>
+		<text transform="matrix(1 0 0 1 139.999 255)" fill="#FFFFFF" font-family="'DINPro-Bold'" font-size="14">Washington</text>
+		<text transform="matrix(1 0 0 1 169.999 165)" fill="#FFFFFF" font-family="'DINPro-Bold'" font-size="14">Boston</text>
+		<text transform="matrix(1 0 0 1 82.4595 155)" fill="#FFFFFF" font-family="'DINPro-Bold'" font-size="14">Toronto</text>
+		<text transform="matrix(1 0 0 1 122.4595 125)" fill="#FFFFFF" font-family="'DINPro-Bold'" font-size="14">Montreal</text>
+		<text transform="matrix(1 0 0 1 312.4595 125)" fill="#FFFFFF" font-family="'DINPro-Bold'" font-size="14">Copenhagen</text>
+		<text transform="matrix(1 0 0 1 402.4595 65)" fill="#FFFFFF" font-family="'DINPro-Bold'" font-size="14">Helsinki</text>
+		<text transform="matrix(1 0 0 1 322.4595 95)" fill="#FFFFFF" font-family="'DINPro-Bold'" font-size="14">Stockholm</text>
+		<text transform="matrix(1 0 0 1 312.4595 65)" fill="#FFFFFF" font-family="'DINPro-Bold'" font-size="14">Oslo</text>
+		<text transform="matrix(1 0 0 1 73.3501 195)" fill="#FFFFFF" font-family="'DINPro-Bold'" font-size="14">Chicago</text>
+		<text transform="matrix(1 0 0 1 599.2764 523)" fill="#FFFFFF" font-family="'DINPro-Bold'" font-size="14">Kuala Lumpur</text>
+		<text transform="matrix(1 0 0 1 729.999 385)" fill="#FFFFFF" font-family="'DINPro-Bold'" font-size="14">Taipei</text>
+		<text transform="matrix(1 0 0 1 379.999 155)" fill="#FFFFFF" font-family="'DINPro-Bold'" font-size="14">Berlin</text>
+		<text transform="matrix(1 0 0 1 299.999 225)" fill="#FFFFFF" font-family="'DINPro-Bold'" font-size="14">Paris</text>
+		<text transform="matrix(1 0 0 1 19.999 235)" fill="#FFFFFF" font-family="'DINPro-Bold'" font-size="14">San Francisco</text>
+		<text transform="matrix(1 0 0 1 59.792 346.75)" fill="#FFFFFF" font-family="'DINPro-Bold'" font-size="14">Mexico</text>
+		<text transform="matrix(1 0 0 1 459.3721 155)" fill="#FFFFFF" font-family="'DINPro-Bold'" font-size="14">Moscow</text>
+		<text transform="matrix(1 0 0 1 557.3223 215)" fill="#FFFFFF" font-family="'DINPro-Bold'" font-size="14">Beijing</text>
+		<text transform="matrix(1 0 0 1 744.999 194.25)" fill="#FFFFFF" font-family="'DINPro-Bold'" font-size="14">Tokyo</text>
+		<text transform="matrix(1 0 0 1 645.8271 153.6665)" fill="#FFFFFF" font-family="'DINPro-Bold'" font-size="14">Seoul</text>
+		<text transform="matrix(1 0 0 1 675.8799 184.25)" fill="#FFFFFF" font-family="'DINPro-Bold'" font-size="14">Busan</text>
+		<text transform="matrix(1 0 0 1 722.0918 231.25)" fill="#FFFFFF" font-family="'DINPro-Bold'" font-size="14">Osaka</text>
+		<text transform="matrix(1 0 0 1 699.999 305)" fill="#FFFFFF" font-family="'DINPro-Bold'" font-size="14">Shanghai</text>
+		<text transform="matrix(1 0 0 1 610.7549 385)" fill="#FFFFFF" font-family="'DINPro-Bold'" font-size="14">Guangzhou</text>
+		<text transform="matrix(1 0 0 1 679.999 420)" fill="#FFFFFF" font-family="'DINPro-Bold'" font-size="14">Shenzhen</text>
+		<text transform="matrix(1 0 0 1 679.999 448)" fill="#FFFFFF" font-family="'DINPro-Bold'" font-size="14">Hong Kong</text>
+		<text transform="matrix(1 0 0 1 519.6758 485)" fill="#FFFFFF" font-family="'DINPro-Bold'" font-size="14">Delhi</text>
+		<text transform="matrix(1 0 0 1 479.999 555)" fill="#FFFFFF" font-family="'DINPro-Bold'" font-size="14">Mumbai</text>
+		<text transform="matrix(1 0 0 1 234.999 140)" fill="#FFFFFF" font-family="'DINPro-Bold'" font-size="14">London</text>
+		<text transform="matrix(1 0 0 1 150.7627 205)" fill="#FFFFFF" font-family="'DINPro-Bold'" font-size="14">New York</text>
+		<text transform="matrix(1 0 0 1 239.999 375)" fill="#FFFFFF" font-family="'DINPro-Bold'" font-size="14">Madrid</text>
+		<text transform="matrix(1 0 0 1 259.999 340)" fill="#FFFFFF" font-family="'DINPro-Bold'" font-size="14">Barcelona</text>
+		<text transform="matrix(1 0 0 1 430 375)" fill="#FFFFFF" font-family="'DINPro-Bold'" font-size="14">Istanbul</text>
+	</g>
+</g>
+<g id="Links">
+	
+		<rect x="224.999" y="125" onclick="window.open('http://www.inat.fr/metro/london/', '_top')" onmouseover="setAttribute('style','stroke-width: 4pt')" onmouseout="setAttribute('style','stroke-width: 0.01pt')" fill="#595B51" fill-opacity="0" stroke="#595B51" stroke-width="0.1" width="65.685" height="20"/>
+	
+		<rect x="290" y="210" onclick="window.open('http://www.inat.fr/metro/paris/', '_top') " onmouseover="setAttribute('style','stroke-width: 4pt')" onmouseout="setAttribute('style','stroke-width: 0.01pt')" fill="#595B51" fill-opacity="0" stroke="#595B51" stroke-width="0.1" width="51.967" height="20"/>
+	
+		<rect x="159.999" y="150" onclick="window.open('http://www.inat.fr/metro/boston/', '_top') " onmouseover="setAttribute('style','stroke-width: 4pt')" onmouseout="setAttribute('style','stroke-width: 0.01pt')" fill="#595B51" fill-opacity="0" stroke="#595B51" stroke-width="0.1" width="62.986" height="20"/>
+	
+		<rect x="72.459" y="140" onclick="window.open('http://www.inat.fr/metro/toronto/', '_top') " onmouseover="setAttribute('style','stroke-width: 4pt')" onmouseout="setAttribute('style','stroke-width: 0.01pt')" fill="#595B51" fill-opacity="0" stroke="#595B51" stroke-width="0.1" width="67.413" height="20"/>
+	
+		<rect x="112.459" y="110" onclick="window.open('http://www.inat.fr/metro/montreal/', '_top') " onmouseover="setAttribute('style','stroke-width: 4pt')" onmouseout="setAttribute('style','stroke-width: 0.01pt')" fill="#595B51" fill-opacity="0" stroke="#595B51" stroke-width="0.1" width="77.413" height="20"/>
+	
+		<rect x="302.459" y="110" onclick="window.open('http://www.inat.fr/metro/copenhagen', '_top') " onmouseover="setAttribute('style','stroke-width: 4pt')" onmouseout="setAttribute('style','stroke-width: 0.01pt')" fill="#595B51" fill-opacity="0" stroke="#595B51" stroke-width="0.1" width="98.152" height="20"/>
+	
+		<rect x="392.459" y="50" onclick="window.open('http://www.inat.fr/metro/helsinki/', '_top') " onmouseover="setAttribute('style','stroke-width: 4pt')" onmouseout="setAttribute('style','stroke-width: 0.01pt')" fill="#595B51" fill-opacity="0" stroke="#595B51" stroke-width="0.1" width="71.403" height="20"/>
+	
+		<rect x="312.459" y="80" onclick="window.open('http://www.inat.fr/metro/stockholm/', '_top') " onmouseover="setAttribute('style','stroke-width: 4pt')" onmouseout="setAttribute('style','stroke-width: 0.01pt')" fill="#595B51" fill-opacity="0" stroke="#595B51" stroke-width="0.1" width="86.985" height="20"/>
+	
+		<rect x="302.459" y="50" onclick="window.open('http://www.inat.fr/metro/oslo/', '_top') " onmouseover="setAttribute('style','stroke-width: 4pt')" onmouseout="setAttribute('style','stroke-width: 0.01pt')" fill="#595B51" fill-opacity="0" stroke="#595B51" stroke-width="0.1" width="47.486" height="20"/>
+	
+		<rect x="63.35" y="180" onclick="window.open('http://www.inat.fr/metro/chicago/', '_top') " onmouseover="setAttribute('style','stroke-width: 4pt')" onmouseout="setAttribute('style','stroke-width: 0.01pt')" fill="#595B51" fill-opacity="0" stroke="#595B51" stroke-width="0.1" width="67.413" height="20"/>
+	
+		<rect x="589.774" y="508" onclick="window.open('http://www.inat.fr/metro/kuala-lumpur/', '_top') " onmouseover="setAttribute('style','stroke-width: 4pt')" onmouseout="setAttribute('style','stroke-width: 0.01pt')" fill="#595B51" fill-opacity="0" stroke="#595B51" stroke-width="0.1" width="105.338" height="20"/>
+	
+		<rect x="129.999" y="240" onclick="window.open('http://www.inat.fr/metro/washington/', '_top') " onmouseover="setAttribute('style','stroke-width: 4pt')" onmouseout="setAttribute('style','stroke-width: 0.01pt')" fill="#595B51" fill-opacity="0" stroke="#595B51" stroke-width="0.1" width="92.404" height="20"/>
+	
+		<rect x="229.999" y="360" onclick="window.open('http://www.inat.fr/metro/madrid/', '_top')" onmouseover="setAttribute('style','stroke-width: 4pt')" onmouseout="setAttribute('style','stroke-width: 0.01pt')" fill="#595B51" fill-opacity="0" stroke="#595B51" stroke-width="0.1" width="62.839" height="20"/>
+	
+		<rect x="249.999" y="325" onclick="window.open('http://www.inat.fr/metro/barcelona/', '_top')" onmouseover="setAttribute('style','stroke-width: 4pt')" onmouseout="setAttribute('style','stroke-width: 0.01pt')" fill="#595B51" fill-opacity="0" stroke="#595B51" stroke-width="0.1" width="82.672" height="20"/>
+	
+		<rect x="369.999" y="140" onclick="window.open('http://www.inat.fr/metro/berlin/', '_top')" onmouseover="setAttribute('style','stroke-width: 4pt')" onmouseout="setAttribute('style','stroke-width: 0.01pt')" fill="#595B51" fill-opacity="0" stroke="#595B51" stroke-width="0.1" width="58.023" height="20"/>
+	
+		<rect x="449.372" y="140" onclick="window.open('http://www.inat.fr/metro/moscow/', '_top')" onmouseover="setAttribute('style','stroke-width: 4pt')" onmouseout="setAttribute('style','stroke-width: 0.01pt')" fill="#595B51" fill-opacity="0" stroke="#595B51" stroke-width="0.1" width="70.234" height="20"/>
+	
+		<rect x="420" y="360" onclick="window.open('http://www.inat.fr/metro/istanbul/', '_top')" onmouseover="setAttribute('style','stroke-width: 4pt')" onmouseout="setAttribute('style','stroke-width: 0.01pt')" fill="#595B51" fill-opacity="0" stroke="#595B51" stroke-width="0.1" width="70.839" height="20"/>
+	
+		<rect x="469.999" y="540" onclick="window.open('http://www.inat.fr/metro/mumbai/', '_top')" onmouseover="setAttribute('style','stroke-width: 4pt')" onmouseout="setAttribute('style','stroke-width: 0.01pt')" fill="#595B51" fill-opacity="0" stroke="#595B51" stroke-width="0.1" width="69.482" height="20"/>
+	
+		<rect x="509.676" y="470" onclick="window.open('http://www.inat.fr/metro/delhi/', '_top')" onmouseover="setAttribute('style','stroke-width: 4pt')" onmouseout="setAttribute('style','stroke-width: 0.01pt')" fill="#595B51" fill-opacity="0" stroke="#595B51" stroke-width="0.1" width="51.861" height="20"/>
+	
+		<rect x="600.755" y="370" onclick="window.open('http://www.inat.fr/metro/guangzhou/', '_top')" onmouseover="setAttribute('style','stroke-width: 4pt')" onmouseout="setAttribute('style','stroke-width: 0.01pt')" fill="#595B51" fill-opacity="0" stroke="#595B51" stroke-width="0.1" width="89.047" height="20"/>
+	
+		<rect x="669.999" y="405" onclick="window.open('http://www.inat.fr/metro/shenzhen/', '_top')" onmouseover="setAttribute('style','stroke-width: 4pt')" onmouseout="setAttribute('style','stroke-width: 0.01pt')" fill="#595B51" fill-opacity="0" stroke="#595B51" stroke-width="0.1" width="80.563" height="20"/>
+	
+		<rect x="669.999" y="433" onclick="window.open('http://www.inat.fr/metro/hong-kong/', '_top')" onmouseover="setAttribute('style','stroke-width: 4pt')" onmouseout="setAttribute('style','stroke-width: 0.01pt')" fill="#595B51" fill-opacity="0" stroke="#595B51" stroke-width="0.1" width="87.672" height="20"/>
+	
+		<rect x="689.999" y="290" onclick="window.open('http://www.inat.fr/metro/shanghai/', '_top')" onmouseover="setAttribute('style','stroke-width: 4pt')" onmouseout="setAttribute('style','stroke-width: 0.01pt')" fill="#595B51" fill-opacity="0" stroke="#595B51" stroke-width="0.1" width="77.301" height="20"/>
+	
+		<rect x="547.322" y="200" onclick="window.open('http://www.inat.fr/metro/beijing/', '_top')" onmouseover="setAttribute('style','stroke-width: 4pt')" onmouseout="setAttribute('style','stroke-width: 0.01pt')" fill="#595B51" fill-opacity="0" stroke="#595B51" stroke-width="0.1" width="62.491" height="20"/>
+	
+		<rect x="665.88" y="169.25" onclick="window.open('http://www.inat.fr/metro/busan/', '_top')" onmouseover="setAttribute('style','stroke-width: 4pt')" onmouseout="setAttribute('style','stroke-width: 0.01pt')" fill="#595B51" fill-opacity="0" stroke="#595B51" stroke-width="0.1" width="59.119" height="20"/>
+	
+		<rect x="635.827" y="138.667" onclick="window.open('http://www.inat.fr/metro/seoul/', '_top')" onmouseover="setAttribute('style','stroke-width: 4pt')" onmouseout="setAttribute('style','stroke-width: 0.01pt')" fill="#595B51" fill-opacity="0" stroke="#595B51" stroke-width="0.1" width="55.422" height="20"/>
+	
+		<rect x="712.092" y="216.25" onclick="window.open('http://www.inat.fr/metro/osaka/', '_top')" onmouseover="setAttribute('style','stroke-width: 4pt')" onmouseout="setAttribute('style','stroke-width: 0.01pt')" fill="#595B51" fill-opacity="0" stroke="#595B51" stroke-width="0.1" width="57.562" height="20"/>
+	
+		<rect x="734.999" y="179.25" onclick="window.open('http://www.inat.fr/metro/tokyo/', '_top')" onmouseover="setAttribute('style','stroke-width: 4pt')" onmouseout="setAttribute('style','stroke-width: 0.01pt')" fill="#595B51" fill-opacity="0" stroke="#595B51" stroke-width="0.1" width="55.529" height="20"/>
+	
+		<rect x="140.763" y="190" onclick="window.open('http://www.inat.fr/metro/new-york/', '_top')" onmouseover="setAttribute('style','stroke-width: 4pt')" onmouseout="setAttribute('style','stroke-width: 0.01pt')" fill="#595B51" fill-opacity="0" stroke="#595B51" stroke-width="0.1" width="78.924" height="20"/>
+	
+		<rect x="49.792" y="331.75" onclick="window.open('http://www.inat.fr/metro/mexico/', '_top')" onmouseover="setAttribute('style','stroke-width: 4pt')" onmouseout="setAttribute('style','stroke-width: 0.01pt')" fill="#595B51" fill-opacity="0" stroke="#595B51" stroke-width="0.1" width="62.861" height="20"/>
+	
+		<rect x="9.999" y="220" onclick="window.open('http://www.inat.fr/metro/san-francisco-bay-area/', '_top')" onmouseover="setAttribute('style','stroke-width: 4pt')" onmouseout="setAttribute('style','stroke-width: 0.01pt')" fill="#595B51" fill-opacity="0" stroke="#595B51" stroke-width="0.1" width="107.241" height="20"/>
+	
+		<rect x="119.27" y="543" onclick="window.open('http://www.inat.fr/metro/sao-paulo/', '_top') " onmouseover="setAttribute('style','stroke-width: 4pt')" onmouseout="setAttribute('style','stroke-width: 0.01pt')" fill="#595B51" fill-opacity="0" stroke="#595B51" stroke-width="0.1" width="81.884" height="20"/>
+	
+		<rect x="76.166" y="610" onclick="window.open('http://www.inat.fr/metro/buenos-aires/', '_top') " onmouseover="setAttribute('style','stroke-width: 4pt')" onmouseout="setAttribute('style','stroke-width: 0.01pt')" fill="#595B51" fill-opacity="0" stroke="#595B51" stroke-width="0.1" width="102.779" height="20"/>
+	
+		<rect x="499.905" y="400" onclick="window.open('http://www.inat.fr/metro/tehran/', '_top') " onmouseover="setAttribute('style','stroke-width: 4pt')" onmouseout="setAttribute('style','stroke-width: 0.01pt')" fill="#595B51" fill-opacity="0" stroke="#595B51" stroke-width="0.1" width="63.055" height="20"/>
+	
+		<rect x="599.999" y="538" onclick="window.open('http://www.inat.fr/metro/singapore/', '_top') " onmouseover="setAttribute('style','stroke-width: 4pt')" onmouseout="setAttribute('style','stroke-width: 0.01pt')" fill="#595B51" fill-opacity="0" stroke="#595B51" stroke-width="0.1" width="82.829" height="20"/>
+	
+		<rect x="539.999" y="330" onclick="window.open('http://www.inat.fr/metro/chongqing/', '_top') " onmouseover="setAttribute('style','stroke-width: 4pt')" onmouseout="setAttribute('style','stroke-width: 0.01pt')" fill="#595B51" fill-opacity="0" stroke="#595B51" stroke-width="0.1" width="85.922" height="20"/>
+	
+		<rect x="489.999" y="300" onclick="window.open('http://www.inat.fr/metro/chengdu/', '_top') " onmouseover="setAttribute('style','stroke-width: 4pt')" onmouseout="setAttribute('style','stroke-width: 0.01pt')" fill="#595B51" fill-opacity="0" stroke="#595B51" stroke-width="0.1" width="74.446" height="20"/>
+	
+		<rect x="469.999" y="335" onclick="window.open('http://www.inat.fr/metro/tbilisi/', '_top') " onmouseover="setAttribute('style','stroke-width: 4pt')" onmouseout="setAttribute('style','stroke-width: 0.01pt')" fill="#595B51" fill-opacity="0" stroke="#595B51" stroke-width="0.1" width="58.029" height="20"/>
+	
+		<rect x="499.906" y="250" onclick="window.open('http://www.inat.fr/metro/xian/', '_top') " onmouseover="setAttribute('style','stroke-width: 4pt')" onmouseout="setAttribute('style','stroke-width: 0.01pt')" fill="#595B51" fill-opacity="0" stroke="#595B51" stroke-width="0.1" width="49.497" height="20"/>
+	
+		<rect x="370.001" y="260" onclick="window.open('http://www.inat.fr/metro/vienna/', '_top') " onmouseover="setAttribute('style','stroke-width: 4pt')" onmouseout="setAttribute('style','stroke-width: 0.01pt')" fill="#595B51" fill-opacity="0" stroke="#595B51" stroke-width="0.1" width="61.444" height="20"/>
+	
+		<rect x="354.685" y="230" onclick="window.open('http://www.inat.fr/metro/munich/', '_top') " onmouseover="setAttribute('style','stroke-width: 4pt')" onmouseout="setAttribute('style','stroke-width: 0.01pt')" fill="#595B51" fill-opacity="0" stroke="#595B51" stroke-width="0.1" width="64.838" height="20"/>
+	
+		<rect x="415" y="90" onclick="window.open('http://www.inat.fr/metro/saint-petersburg/', '_top') " onmouseover="setAttribute('style','stroke-width: 4pt')" onmouseout="setAttribute('style','stroke-width: 0.01pt')" fill="#595B51" fill-opacity="0" stroke="#595B51" stroke-width="0.1" width="106.653" height="20"/>
+	
+		<rect x="587.523" y="300" onclick="window.open('http://www.inat.fr/metro/wuhan/', '_top') " onmouseover="setAttribute('style','stroke-width: 4pt')" onmouseout="setAttribute('style','stroke-width: 0.01pt')" fill="#595B51" fill-opacity="0" stroke="#595B51" stroke-width="0.1" width="62.672" height="20"/>
+	
+		<rect x="590.195" y="230" onclick="window.open('http://www.inat.fr/metro/tianjin/', '_top') " onmouseover="setAttribute('style','stroke-width: 4pt')" onmouseout="setAttribute('style','stroke-width: 0.01pt')" fill="#595B51" fill-opacity="0" stroke="#595B51" stroke-width="0.1" width="61.458" height="20"/>
+	
+		<rect x="624.147" y="260" onclick="window.open('http://www.inat.fr/metro/nanjing/', '_top') " onmouseover="setAttribute('style','stroke-width: 4pt')" onmouseout="setAttribute('style','stroke-width: 0.01pt')" fill="#595B51" fill-opacity="0" stroke="#595B51" stroke-width="0.1" width="67.595" height="20"/>
+	
+		<rect x="669.999" y="320" onclick="window.open('http://www.inat.fr/metro/hangzhou/', '_top') " onmouseover="setAttribute('style','stroke-width: 4pt')" onmouseout="setAttribute('style','stroke-width: 0.01pt')" fill="#595B51" fill-opacity="0" stroke="#595B51" stroke-width="0.1" width="81.422" height="20"/>
+	
+		<rect x="720.112" y="370" onclick="window.open('http://www.inat.fr/metro/taipei/', '_top') " onmouseover="setAttribute('style','stroke-width: 4pt')" onmouseout="setAttribute('style','stroke-width: 0.01pt')" fill="#595B51" fill-opacity="0" stroke="#595B51" stroke-width="0.1" width="56.073" height="20"/>
+</g>
+<g id="inat.fr">
+	<text transform="matrix(1 0 0 1 490.8389 760)" opacity="0.1" fill="#595B51" font-family="'DINPro-Medium'" font-size="32">inat.fr</text>
+</g>
+</svg>
