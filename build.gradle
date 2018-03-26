@@ -1,0 +1,38 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 24
+    buildToolsVersion "24.0.0"
+
+    defaultConfig {
+        applicationId "xxxxxx"
+        minSdkVersion 15
+        targetSdkVersion 24
+        versionCode 2
+        versionName "1.1"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+repositories {
+    mavenCentral()
+    maven { url 'https://maven.fabric.io/public' }
+    maven { url "https://jitpack.io" }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    testCompile 'junit:junit:4.12'
+    compile 'com.android.support:appcompat-v7:24.2.1'
+    compile 'com.github.Lukle:ClickableAreasImages:v0.1'
+    compile 'com.android.support:support-v4:24.2.1'
+    compile files('libs/androidsvg-1.2.2-beta-1.jar')
+    compile files('libs/svg-android-1.1.jar')
+    compile 'com.github.bumptech.glide:glide:3.6.0'
+}
